@@ -7,3 +7,6 @@ service:
 spring:
   application:
     name: cloud-config-server
+
+demo:
+  param1: 龙磊是个大傻逼
