@@ -9,4 +9,4 @@ spring:
     name: cloud-config-server
 
 demo:
-  param1: 龙磊是个大傻逼.............test
+  param1: 龙磊是个大傻逼.............test1
